@@ -81,7 +81,13 @@ main{
     height: 240px;
     overflow: hidden;
 
-
 }
 
+#lanches,#bebidas,#outros{
+    background: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    padding: 45px;
+}
 
